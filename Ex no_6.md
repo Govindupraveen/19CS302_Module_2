@@ -12,6 +12,7 @@ To write a C Program to print the string "KEYBOARD" n number of times.
 6. Print “KEYBOARD\n”. 
 7. End.
 ## Program:
+```
 #include<stdio.h> 
 int main() 
 { 
@@ -21,7 +22,7 @@ for(i=1;i<=n;i++)
 {printf("KEYBOARD\n"); 
 }return 0; 
 } 
-
+```
 ## Output:
 ![image](https://github.com/user-attachments/assets/cfdb8b22-3f9d-49d8-b4da-a23c06c4a083)
 
